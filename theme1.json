@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "mode": "dark",
+  "palettes": {
+    "dark": {
+      "accent": "#000000",
+      "bg": "#000000",
+      "surface": "#000000",
+      "input": "#000000",
+      "line": "#000000",
+      "text": "#000000",
+      "muted": "#000000",
+      "success": "#000000",
+      "danger": "#000000"
+    },
+    "light": {
+      "accent": "#ffffff",
+      "bg": "#ffffff",
+      "surface": "#ffffff",
+      "input": "#ffffff",
+      "line": "#ffffff",
+      "text": "#ffffff",
+      "muted": "#ffffff",
+      "success": "#ffffff",
+      "danger": "#ffffff"
+    }
+  },
+  "saved": [
+    {
+      "name": "default",
+      "mode": "dark",
+      "palette": {
+        "accent": "#000000",
+        "bg": "#000000",
+        "surface": "#000000",
+        "input": "#000000",
+        "line": "#000000",
+        "text": "#000000",
+        "muted": "#000000",
+        "success": "#000000",
+        "danger": "#000000"
+      }
+    }
+  ]
+}
